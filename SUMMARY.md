@@ -23,7 +23,6 @@
     * [BUG提交](docs/book/00-Introduction.md#BUG提交)
     * [邮箱订阅](docs/book/00-Introduction.md#邮箱订阅)
     * [Java图形界面](docs/book/00-Introduction.md#Java图形界面)
-
 * [第一章 对象的概念](docs/book/01-What-is-an-Object.md)
     * [抽象](docs/book/01-What-is-an-Object.md#抽象)
     * [接口](docs/book/01-What-is-an-Object.md#接口)
@@ -325,7 +324,6 @@
     * [访问者模式](docs/book/25-Patterns.md#访问者模式)
     * [RTTI的优劣](docs/book/25-Patterns.md#RTTI的优劣)
     * [本章小结](docs/book/25-Patterns.md#本章小结)
-
 * [附录:补充](docs/book/Appendix-Supplements.md)
     * [可下载的补充](docs/book/Appendix-Supplements.md#可下载的补充)
     * [通过Thinking-in-C来巩固Java基础](docs/book/Appendix-Supplements.md#通过Thinking-in-C来巩固Java基础)
